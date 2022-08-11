@@ -1,7 +1,7 @@
 # nodejs-jm-crime-stats-api
 Simple CRUD REST API built with NodeJS, Express and Postrgresql with several endpoints that provide crime statistics in relation to Jamaica for the period 2011-2018.
 
-## <ins>Endpoints</ins>
+## Endpoints
 
 GET /api/v0/crimes/ - Returns all crime data from the database
 
