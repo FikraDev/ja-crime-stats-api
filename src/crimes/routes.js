@@ -10,6 +10,12 @@ router.get('/:id', controller.getCrimeById)
 
 router.post('/', controller.addData)
 
+router.put('/:id', controller.updateData);
+
+router.delete('/:id', controller.deleteData);
+
+
+
 
 
 module.exports = router;
